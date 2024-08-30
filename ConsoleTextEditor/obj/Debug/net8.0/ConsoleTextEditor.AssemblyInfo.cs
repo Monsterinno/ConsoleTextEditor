@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleTextEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+966fed7a93bdc8c15201d0c4a270482eda7c3dee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleTextEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleTextEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

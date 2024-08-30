@@ -12,3 +12,4 @@ c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\De
 c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.pdb
 c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.genruntimeconfig.cache
 c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ref\ConsoleTextEditor.dll
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.sourcelink.json
