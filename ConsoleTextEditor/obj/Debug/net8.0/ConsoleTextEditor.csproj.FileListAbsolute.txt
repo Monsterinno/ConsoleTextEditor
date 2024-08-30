@@ -1,0 +1,14 @@
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.AssemblyInfoInputs.cache
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.AssemblyInfo.cs
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.csproj.CoreCompileInputs.cache
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\bin\Debug\net8.0\ConsoleTextEditor.exe
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\bin\Debug\net8.0\ConsoleTextEditor.deps.json
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\bin\Debug\net8.0\ConsoleTextEditor.runtimeconfig.json
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\bin\Debug\net8.0\ConsoleTextEditor.dll
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\bin\Debug\net8.0\ConsoleTextEditor.pdb
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.dll
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\refint\ConsoleTextEditor.dll
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.pdb
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ConsoleTextEditor.genruntimeconfig.cache
+c:\Users\Eigenaar\Desktop\VsCodeRepos\ConsoleTextEditor\ConsoleTextEditor\obj\Debug\net8.0\ref\ConsoleTextEditor.dll
